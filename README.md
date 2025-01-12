@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Von Isaac R. Baban</h1>
 <h3 align="center">Dedicated and aspiring web developer with a strong desire to create visually stunning, responsive, and user-friendly websites. I'm eager to use my expanding understanding of modern web development technologies and processes to contribute to impactful projects and offer excellent digital experiences.</h3>
 
-  ![image alt](https://gifdb.com/images/high/vagabond-manga-raining-2r9wqzh00lw70wvt.gif)
+  ![image alt](https://gifdb.com/images/high/vagabond-manga-raining-2r9wqzh00lw70wvt.gif)  ![image alt](https://avatars.dzeninfra.ru/get-zen_doc/3588827/pub_63aec30603b9c37b108a98c7_63aee8a98be56e132a9f0e1f/orig)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vonisaac&label=Profile%20views&color=0e75b6&style=flat" alt="vonisaac" /> </p>
